@@ -4412,4 +4412,5 @@ Michael Wong
 - [Tào Nhật Minh](https://github.com/Minh-tao)
 - [ExoticRoots](https://github.com/fredericbruening)
 - [Thang Bui](https://github.com/bnnthang)
+- [Petros Papadopoulos](https://github.com/petran123)
 <!-- prettier-ignore-end -->
